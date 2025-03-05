@@ -1,0 +1,88 @@
+/* General Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f9f5f6;
+    color: #4a4e69;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Header */
+header {
+    background-color: #d8bfd8;
+    color: white;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Sections */
+section {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Study Tips */
+.study-tips .tip {
+    background: #fff0f5;
+    border-left: 5px solid #d291bc;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Benefits */
+.benefits ul {
+    list-style: none;
+    padding: 0;
+}
+
+.benefits li {
+    background: #e6e6fa;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+/* Study Plan Table */
+.study-plan table {
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+.study-plan th, .study-plan td {
+    border: 1px solid #d291bc;
+    padding: 10px;
+}
+
+.study-plan th {
+    background: #d8bfd8;
+    color: white;
+}
+
+.study-plan td {
+    background: #fff0f5;
+}
+
+/* Quotes */
+.quotes {
+    font-style: italic;
+    background: #e6e6fa;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+/* Footer */
+footer {
+    background-color: #d8bfd8;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
